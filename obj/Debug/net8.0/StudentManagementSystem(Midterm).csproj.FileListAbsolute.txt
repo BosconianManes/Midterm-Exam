@@ -1,0 +1,14 @@
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\bin\Debug\net8.0\StudentManagementSystem(Midterm).exe
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\bin\Debug\net8.0\StudentManagementSystem(Midterm).deps.json
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\bin\Debug\net8.0\StudentManagementSystem(Midterm).runtimeconfig.json
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\bin\Debug\net8.0\StudentManagementSystem(Midterm).dll
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\bin\Debug\net8.0\StudentManagementSystem(Midterm).pdb
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\StudentManagementSystem(Midterm).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\StudentManagementSystem(Midterm).AssemblyInfoInputs.cache
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\StudentManagementSystem(Midterm).AssemblyInfo.cs
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\StudentManagementSystem(Midterm).csproj.CoreCompileInputs.cache
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\StudentManagementSystem(Midterm).dll
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\refint\StudentManagementSystem(Midterm).dll
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\StudentManagementSystem(Midterm).pdb
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\StudentManagementSystem(Midterm).genruntimeconfig.cache
+C:\Users\Armanes Christopher\source\repos\StudentManagementSystem(Midterm)\StudentManagementSystem(Midterm)\obj\Debug\net8.0\ref\StudentManagementSystem(Midterm).dll
